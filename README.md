@@ -1,4 +1,4 @@
-**Our library of components!!** 
+**Our library of components** 
 
 **Avatar** 
 
